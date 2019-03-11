@@ -25,3 +25,10 @@ function johnLennonFacts(facts) {
   }
   return shoutedFacts
 }
+
+function iLoveTheBeatles(num) {
+  var array = []
+  doWhile () {
+    
+  }
+}
