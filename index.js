@@ -27,7 +27,7 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(num) {
-  let i = num
+let i = num
   var array = []
   do {
       array.push("I love the Beatles!")
