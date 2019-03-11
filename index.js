@@ -26,10 +26,10 @@ function johnLennonFacts(facts) {
   return shoutedFacts
 }
 
-function iLoveTheBeatles(num) {
+function iLoveTheBeatles(n) {
   var array = []
   do {
       array.push("I love the Beatles!")
-      num++
-  } while (array.length < num);
+      n++
+  } while (array.length < n);
 }
